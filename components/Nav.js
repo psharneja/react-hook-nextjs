@@ -9,6 +9,9 @@ const Nav = () => (
     <Link href="/about">
       <a>about</a>
     </Link>
+    <Link href="/news">
+      <a>News</a>
+    </Link>
     <style jsx>{`
       a,
       img {
